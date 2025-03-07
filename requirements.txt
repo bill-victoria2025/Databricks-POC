@@ -1,0 +1,16 @@
+datasets
+transformers
+torch
+torchvision
+huggingface_hub
+ipykernel
+rich
+scikit-learn
+pandas
+ruff
+databricks-sql-connector
+argparse
+typing
+databricks-connect==16.1
+openai==1.65.2
+python-dotenv==1.0.1
